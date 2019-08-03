@@ -61,16 +61,19 @@ It comes with a dashboard and allow to setup and use easily webhooks without ins
   - [@Khaazz](https://github.com/khaazz) (KhaaZ#0001) - Manager, Project Manager, Lead Developer
   - [@Eleos](https://github.com/EleosOS) (Eleos#0010) - Developer (backend, server), Community Manager
   - [@CoalSephos](https://github.com/CoalSephos) (CoalSephos#7566) - Developer (backend, frontend)
-  - [@Phoenix](https://github.com/Santhosh-Annamalai) (Phoenix#0955) - Developer (backend, api)
+
+- Developers
+  - [@Null](https://github.com/VoidNulll) (Null#0515) - Designer, Developer (backend) 
 
 - Affiliates
   - [@Derp](https://github.com/Derpy101) (DERPMASTER™#0001) - Developer (frontend)
-  - [@Null](https://github.com/) (Null#0515) - Designer, Developer (backend)
   - [@Unknown](https://github.com/Unknown401) (Unknown#2500) - Developer (backend)
+  - [@Jacherr](https://github.com/Jacherr) (Jacher#9891) - Developer (backend)
 
 - Former Members
   - [@Ape](https://github.com/bjornmorten) (bjornmorten#7739) - Developer (backend)
   - [@AS04](https://github.com/InATrance) (Jack™#1312) - Developer (backend, music)
+  - [@Phoenix](https://github.com/Santhosh-Annamalai) (Phoenix#0955) - Developer (backend, api)
 
 - Honorable mentions
 
@@ -88,3 +91,4 @@ To know more about contributions or discuss about development you can join the d
 #### Usage
 Usage of our products are possible and under license.  
 Commercial use is however discouraged.  
+Usage of our logos, names and images is formerly forbidden.  
