@@ -6,7 +6,9 @@ Originally aimed towards Discord, we host a variety of projects that you can fin
 ## Links
 
 [Website](https://axonteam.org) (Work in progress)
+
 [Github Organisation](https://github.com/AxonTeam)
+
 [Discord server](https://discord.gg/QZ6B5US)
 Patreon
 
@@ -22,11 +24,11 @@ Most of our services are also hosted 24/7 on our servers. Contributions to help 
 Ease is multipurpose Discord bot with a emphasis on moderation.
 EASE stands for "Enhance a Server Easily".
 
-The core of Ease is [AxonCore](#AxonCore), MongoDB (Mongoose), and Eris.
+The core of Ease is [AxonCore](#AxonCore), [MongoDB](https://mongodb.org) / [Mongoose](https://npmjs.com/package/mongoose), and [Eris](https://npmjs.com/package/eris).
 
 ##### AxonCore
 
-[Library Code](https://github.com/Khaazz/AxonCore) | [Documentation](https://khaaz.me/AxonCore)
+[NPM Package](https://npmjs.com/package/axoncore) | [Documentation](https://khaaz.me/AxonCore) | [Code](https://github.com/Khaazz/AxonCore)
 A modular Node.js Discord bot framework with support for [Eris](https://npmjs.com/package/eris) and [Discord.js](https://discord.js.org). detritusjs support unstable.
 
 - Lead developer: 
