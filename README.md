@@ -78,7 +78,7 @@ A Discord bot that easily integrates a reward system in your server for DBL upvo
 
 All of our products are open source. This means you can look at the code, report issues or contribute.  
 You can also reuse our products freely. However, you are welcome to credits us when you do so.  
-All of our products are under licenses that you can find directly in the repository.
+All of our products are under licenses that you can find directly in their repository.
 
 ### Contributions
 
