@@ -29,6 +29,7 @@ The core of Ease is [AxonCore](#AxonCore), [MongoDB](https://mongodb.org) / [Mon
 ##### AxonCore
 
 [NPM Package](https://npmjs.com/package/axoncore) | [Documentation](https://khaaz.me/AxonCore) | [Code](https://github.com/Khaazz/AxonCore)
+
 A modular Node.js Discord bot framework with support for [Eris](https://npmjs.com/package/eris) and [Discord.js](https://discord.js.org). detritusjs support unstable.
 
 - Lead developer: 
