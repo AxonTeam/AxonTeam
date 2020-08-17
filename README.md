@@ -21,6 +21,7 @@ Most of our services are also hosted 24/7 on our servers. Contributions to help 
 ##### EASE
 
 [Code](https://github.com/AxonTeam/Ease)
+
 Ease is multipurpose Discord bot with a emphasis on moderation.
 EASE stands for "Enhance a Server Easily".
 
